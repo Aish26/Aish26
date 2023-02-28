@@ -24,7 +24,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-1.png" alt="sqlserver" height='42px'/> </a>
 <a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" height ="42px" src="https://www.r-project.org/logo/Rlogo.svg"></a>
 <a href="https://studio3t.com/" target="_blank"><img align="left" alt="studio3t" height ="42px" src="https://webassets.mongodb.com/_com_assets/cms/3T_Logo_pos@1.75x-6sxhbwp9mx.png"></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sqlserver" height='42px'/> </a>
+
 <br>
 
 
