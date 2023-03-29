@@ -2,7 +2,7 @@
 I am a problem solver and a curious learner. I see a learning opportunity in every challenge and it motivates me to craft creative solutions. I am a social bird who loves collaborating with people. 
 
 <a href='https://www.linkedin.com/in/aishwarya-ucd/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" height='26px'/></a>
-<a href=''><img align='left' alt="twitter" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" height='26px'/></a>
+<a href="mailto:aishprasad26@gmail.com"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" height='26px'/></a>
 
 
 <br/>
