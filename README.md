@@ -11,9 +11,8 @@ I am a problem solver and a curious learner. I see a learning opportunity in eve
   
 ### 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently learning machine learning, web scraping and mongodb. 
-- 🔭 &nbsp; I have an experience working as a product manager for e-commerce space of Dell Technologies.
-- 🤝 &nbsp; I have worked on a couple of social responsibility projects and would be happy to collaborate on one.
+- 🔭 &nbsp; I am currently working as an Inbound product manager at ServiceNow.Previously worked as a product manager for e-commerce space of Dell Technologies.
+- 🤝 &nbsp; I currently serve as a Secretary of Society of Women Engineers Golden Gate section. I take interest in social responsibility projects and would be happy to collaborate on one.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aishwarya-ucd/).
 - 📝 &nbsp; Checkout my articles about [problem solving](https://www.linkedin.com/pulse/problem-solving-11-aishwarya-/) and [user persona](https://www.linkedin.com/pulse/user-persona-aishwarya-/).
 - 📚 &nbsp; When I am free, I workout at the gym or read books. 
